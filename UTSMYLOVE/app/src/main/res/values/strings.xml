@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UTSMYLOVE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskripsi">
+        Kawasaki pabrikan motor yang bermarkas di kota kobe Jepang ini, tak henti-hentinya mengembangkan teknologinya dalam dunia otomotif, kali ini Kawasaki kembali meluncurkan besutan barunya, yaitu Kawasaki Z1000, motor yang terlahir sebagai Moge Street fighther sengaja di hadirkan oleh pihak Kawasaki untuk memanjakan para konsumen dan para pecinta otomotif yang menginginkan tunggangan yang mempunyai performa power full, selain itu motor ini mempunyai fisik yang kekar dan sangar, dengan unsur sporty dan modern dan siap meramaikan pasar otomotif tanah air.
+
+Motor Kawasaki Z1000 ini menhadirkan kebutuhan untuk segala jenis motor sport, dari segi kelincahan, kecanggihan, dan juga kekuatan karena serta desain yang sporty banget bisa sobat otomotif jumpai pada motor ini, selain itu Motor Kawasaki Z1000 di lengkapi dengan fitur-fitur terkini, yang merupakan bentuk pengembangan dari teknologi sebelumnya. Kawasaki Z1000 sendiri resmi mengaspal di Indonesia pada maret 2014, hal ini menjadi sinyal bahwasanya Kawasaki semakin memperluas jaringan pemasarannya serta lebih memasyarakatkan produksinya ke berbagai penjuru dunia.
+    </string>
+    <string name="Spesifikasi">
+        Mesin
+Valve dengan DOHC, 16 katup, 4 – stoke dengan sistem pendinginan berupa cairan.
+Daya maksimum dari kawasaki z1000 hingga 142 PS / 10000 rpm, sedangkan untuk torsinya sendiri, mencapai 111 Nm / 7300 rpm.
+Menggunakan karburator fuel injection.
+Diameter x langkah untuk : 77 mm x 56 mm.
+Volume silinder yang dimiliki : 1.043 cc.
+Sistem bahan bakar adalah injeksi.
+Sistem pengapian : digital.
+Sisem pendinginan cairan : cairan
+Mempunyai sitem 6 percepatan
+Dimensi
+Panjang : 2.045 mm.
+Lebar : 790 mm.
+Tinggi : 1.055 mm.
+Rangka
+menggunakan rangka Alumunium backbone dimana suspensi bagian depan pada z1000 menggunakan “inverted fork 41 mm” dan suspensi bagian belakang menggunakan
+“Horizotal Back-link, gas charged”.
+Rem yang digunakan oleh adalah cakram dengan rincian : depan berukuran 310 mm, belakang berukuran 250 mm.
+Ban depan berukuran 120/70ZR 17M/C ( 58 W ), belakang 190/50ZR 17M/C ( 73 W ).
+Jarak poros roda kawasaki : 1435 mm.
+Jarak motor kawasaki ketanah : 125 mm.
+Berat kawasaki : 220 kg.Kapasitas bahan bakar kawasaki : 17 liter.
+    </string>
+</resources>
